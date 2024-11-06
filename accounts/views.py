@@ -31,3 +31,4 @@ def logout_view(request):
     logout(request)
     return redirect ('cars_list')
 
+
