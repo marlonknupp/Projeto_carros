@@ -14,7 +14,7 @@ class CarsListView(ListView):
         cars = super().get_queryset(). order_by('model')
         search = self.request.GET.get('search')
         if search:
-            cars = cars.filter(model_icontains=search)
+            cars = cars.filter(model__icontains=search)
         return cars
     
 @method_decorator(login_required(login_url='login'), name='dispatch')
