@@ -1,4 +1,4 @@
-# 🚗 Sistema Web para Gestão de Revenda de Carros
+# 🚗 Sistema web para gestao de revenda de carros
 
 Sistema desenvolvido para facilitar a administração de revendas de veículos, com funcionalidades de cadastro, exibição e controle de inventário.
 
@@ -16,8 +16,6 @@ Sistema desenvolvido para facilitar a administração de revendas de veículos, 
 - Python / Django
 - Bootstrap 5
 - PostgreSQL
-- OpenAI API
-- Amazon Web Services (EC2/RDS)
 
 ## ▶️ Como executar
 
