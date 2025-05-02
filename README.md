@@ -1,8 +1,9 @@
-# 🚗 Sistema web para gestao de revenda de carros
+
+🚗 Sistema Web para Gestão de Revendas de Carros 
 
 Sistema desenvolvido para facilitar a administração de revendas de veículos, com funcionalidades de cadastro, exibição e controle de inventário.
 
-## 🔧 Funcionalidades
+ 🔧 Funcionalidades
 
 - Cadastro de marcas, veículos e vitrine de carros
 - Registro, login e controle de sessão de usuários
@@ -11,13 +12,13 @@ Sistema desenvolvido para facilitar a administração de revendas de veículos, 
 - Banco de dados PostgreSQL
 - Publicação na nuvem (AWS)
 
-## 🚀 Tecnologias
+🚀 Tecnologias
 
 - Python / Django
 - Bootstrap 5
 - PostgreSQL
 
-## ▶️ Como executar
+▶️ Como executar
 
 1. Clone o repositório:
    ```bash
