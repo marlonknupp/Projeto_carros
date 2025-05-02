@@ -41,6 +41,7 @@ pip install -r requirements.txt
 3 - Configure o .env e rode as migrações:
 
 python manage.py migrate
+
 python manage.py runserver
 
 
