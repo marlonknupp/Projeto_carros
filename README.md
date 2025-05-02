@@ -1,36 +1,30 @@
-Sistema Web para Gestão de Revenda de Carros
-Este projeto é um sistema web completo voltado para a gestão de revendas de veículos, com funcionalidades que facilitam o controle de marcas, modelos e a exibição de carros em vitrine, além de recursos inteligentes integrados.
+# 🚗 Sistema Web para Gestão de Revenda de Carros
 
-🔧 Funcionalidades
-Cadastro de Marcas e Veículos
-Gerenciamento eficiente de marcas e modelos, com exibição em uma vitrine virtual de veículos.
+Sistema desenvolvido para facilitar a administração de revendas de veículos, com funcionalidades de cadastro, exibição e controle de inventário.
 
-Registro, Login e Sessão de Usuários
-Sistema de autenticação completo com controle de sessão e segurança.
+## 🔧 Funcionalidades
 
-Cálculo Automático de Inventário
-Controle de estoque com atualização automática conforme entradas e saídas de veículos.
+- Cadastro de marcas, veículos e vitrine de carros
+- Registro, login e controle de sessão de usuários
+- Integração com a API da OpenAI para funções inteligentes
+- Cálculo automático de inventário
+- Banco de dados PostgreSQL
+- Publicação na nuvem (AWS)
 
-Banco de Dados PostgreSQL
-Armazenamento confiável e escalável das informações da aplicação.
+## 🚀 Tecnologias
 
+- Python / Django
+- Bootstrap 5
+- PostgreSQL
+- OpenAI API
+- Amazon Web Services (EC2/RDS)
 
-🚀 Tecnologias Utilizadas
-Python + Django
-
-HTML5, CSS3, Bootstrap
-
-PostgreSQL
-
-API OpenAI (GPT)
-
-AWS (EC2/RDS)
-
-▶ Como executar
+## ▶️ Como executar
 
 1. Clone o repositório:
-
+   ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
    
 2 - Crie o ambiente virtual e instale as dependências:
 
